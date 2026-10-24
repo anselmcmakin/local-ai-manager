@@ -4,7 +4,7 @@ Run your own AI on your own computer, with a Grok Bot that sets it up and keeps 
 
 ![Dashboard](docs/screenshots/dashboard-live.png)
 
-This repo holds the small, auditable scripts the **Local AI Manager** Grok Bot template installs on your machine. The bot downloads a pinned release, checks its SHA-256, and asks before every command.
+This repo holds the small, auditable scripts the [**Local AI Manager** Grok Bot template](https://x.ai/bot/yQvAz8GjmB73Bv6G30iX8) installs on your machine. The bot downloads a pinned release, checks its SHA-256, and asks before every command.
 
 ## What's inside
 | File | What it does |
